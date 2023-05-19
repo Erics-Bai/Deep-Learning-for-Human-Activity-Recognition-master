@@ -18,8 +18,8 @@ This repository contains keras (tensorflow.keras) implementation of Convolutiona
 Dockerfile creates a virtual environment with Keras (tensorflow 2.3) and Python 3.8.
 If you wan to use this implementation locally within a docker container:
 ```bash
-$ git clone git@github.com:takumiw/Deep-Learning-for-Human-Activity-Recognition.git
-$ cd Deep-Learning-for-Human-Activity-Recognition
+$ git clone githumb.com/Erics-Bai/Deep-Learning-for-Human-Activity-Recognition-master.git
+$ cd Deep-Learning-for-Human-Activity-Recognition-master
 $ make start-gpu
 # poetry install
 ```
@@ -59,5 +59,5 @@ The preprocessed raw sensor signals are trained with MLP, which consists of two 
 [3] Reyes-Ortiz, J. L., Oneto, L., Samà, A., Parra, X., & Anguita, D. (2016). Transition-aware human activity recognition using smartphones. *Neurocomputing*, *171*, 754-767.
 
 # Author
-- Takumi Watanabe ([takumiw](https://github.com/takumiw))
-- Sophia University
+- Eric Bai ([takumiw](https://github.com/Erics-Bai))
+- Maryland University
